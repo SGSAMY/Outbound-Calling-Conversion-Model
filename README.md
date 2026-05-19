@@ -2,14 +2,16 @@
 
 ## Overview
 
-This project demonstrates a Python-based customer conversion propensity scoring model designed to prioritise outbound calling campaigns for financial products including:
+This project demonstrates a Python-based customer segmentation and conversion propensity model using behavioural analytics and CACI Fresco-style demographic segmentation for financial products including:
 
 * CTF
 * JISA
 * ISA
 * Over 50
 
-The model analyses customer behavioural and account indicators to identify customers with the highest conversion potential.
+The solution prioritises customers for outbound marketing campaigns and recommends the most suitable next-best-action based on customer behaviour, digital engagement, financial value, product maturity, Direct Debit status, and complaint history.
+
+The objective is to identify customers with the highest conversion potential and support more targeted, efficient, and data-driven campaign activity.
 
 ---
 
