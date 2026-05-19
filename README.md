@@ -44,10 +44,10 @@ Outbound-Calling-Conversion-Model/
 │
 ├── data/
 ├── notebooks/
-├── scripts/
 ├── output/
+├── scripts/
 ├── README.md
-└── requirements.txt
+
 
 ## Model Logic
 
